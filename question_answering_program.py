@@ -1,3 +1,5 @@
+""" https://www.youtube.com/@PythonCodeCampOrg """
+
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer, pipeline
 
 model_name = "deepset/roberta-base-squad2"
