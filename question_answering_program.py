@@ -1,4 +1,6 @@
-""" https://www.youtube.com/@PythonCodeCampOrg """
+# www.youtube.com/@PythonCodeCampOrg
+
+""" Subscribe to PYTHON CODE CAMP or I'll eat all your cookies... """
 
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer, pipeline
 
